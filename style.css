@@ -1,0 +1,17 @@
+/* Jumbotron */
+.jumbotron {
+    background: fixed;
+    background-image: url(images/jumbotron.jpg);
+    min-height: 85vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headertext {
+    padding-top: 20vh;
+}
+
+.farms {
+    height: 500px;
+    width: 500px;
+}
